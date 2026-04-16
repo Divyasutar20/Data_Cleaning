@@ -1,0 +1,796 @@
+customer_name,Recency,Frequency,Monetary,Segment
+Aaron Bergman,95,28,7780.0,Champions
+Aaron Hawkins,10,14,6188.0,Loyal
+Aaron Smayling,5,33,11108.0,Champions
+Adam Bellavance,36,26,10518.0,Champions
+Adam Hart,12,27,5276.0,Potential
+Adam Shillingsburg,3,34,6860.0,Loyal
+Adrian Barton,9,22,3448.0,At Risk
+Adrian Hane,3,18,3472.0,At Risk
+Adrian Shami,98,24,7304.0,Loyal
+Aimee Bixby,92,23,5635.0,Loyal
+Alan Barnes,7,21,4785.0,Potential
+Alan Dominguez,11,26,9156.0,Champions
+Alan Haines,31,43,7329.0,Loyal
+Alan Hwang,37,37,14097.0,Champions
+Alan Schoenberger,1,22,6306.0,Loyal
+Alan Shonely,3,20,2862.0,At Risk
+Alejandro Ballentine,102,19,4014.0,Potential
+Alejandro Grove,68,22,5607.0,Potential
+Alejandro Savely,1,35,8918.0,Champions
+Aleksandra Gannaway,9,14,5128.0,Potential
+Alex Avila,131,25,8913.0,Champions
+Alex Grayson,2,31,7580.0,Loyal
+Alex Russell,11,20,2571.0,At Risk
+Alice McCarthy,3,28,6031.0,Loyal
+Allen Armold,1,29,4222.0,Potential
+Allen Goldenen,94,21,1395.0,At Risk
+Allen Rosenblatt,36,21,3773.0,At Risk
+Alyssa Crouse,3,24,5942.0,Loyal
+Alyssa Tate,3,32,2873.0,At Risk
+Amy Cox,40,13,4921.0,Potential
+Amy Hunt,68,19,4709.0,Potential
+Andrew Allen,218,15,4495.0,Potential
+Andrew Gjertsen,92,37,9881.0,Champions
+Andrew Roberts,219,22,3469.0,At Risk
+Andy Gerbode,10,19,5159.0,Potential
+Andy Reiter,103,14,1618.0,At Risk
+Andy Yotov,70,24,5871.0,Loyal
+Anemone Ratner,36,8,1541.0,At Risk
+Angele Hood,3,15,2514.0,At Risk
+Ann Blume,32,19,7851.0,Champions
+Ann Chong,10,38,7574.0,Loyal
+Ann Steele,226,19,1667.0,At Risk
+Anna Andreadi,10,41,4667.0,Potential
+Anna Chung,1,19,3818.0,At Risk
+Anna Gayman,96,30,6418.0,Loyal
+Anna Häberlin,12,49,8231.0,Champions
+Anne McFarland,7,27,12675.0,Champions
+Anne Pryor,67,23,6089.0,Loyal
+Annie Thurman,133,15,2981.0,At Risk
+Annie Zypern,8,33,3820.0,At Risk
+Anthony Garverick,10,31,6660.0,Loyal
+Anthony Jacobs,193,13,2049.0,At Risk
+Anthony Johnson,103,32,3504.0,At Risk
+Anthony O'Donnell,103,26,8514.0,Champions
+Anthony Rawles,4,27,4591.0,Potential
+Anthony Witt,2,32,6136.0,Loyal
+Arianne Irving,1,29,4100.0,Potential
+Art Ferguson,37,25,1611.0,At Risk
+Art Foster,35,39,10676.0,Champions
+Arthur Gainer,5,23,9409.0,Champions
+Arthur Prichep,93,20,3607.0,At Risk
+Arthur Wiediger,37,18,4824.0,Potential
+Ashley Jarboe,10,23,4426.0,Potential
+Astrea Jones,33,25,4581.0,Potential
+Barbara Fisher,4,32,5188.0,Potential
+Barry Blumstein,32,29,5252.0,Potential
+Barry Franz,32,26,15404.0,Champions
+Barry Französisch,94,31,5342.0,Potential
+Barry Gonzalez,10,28,8663.0,Champions
+Barry Pond,4,25,2634.0,At Risk
+Barry Weirich,4,35,12336.0,Champions
+Bart Folk,7,19,6627.0,Loyal
+Bart Pistole,12,17,1710.0,At Risk
+Bart Watters,36,37,19811.0,Champions
+Becky Castell,11,36,6166.0,Loyal
+Becky Martin,67,36,14309.0,Champions
+Becky Pak,31,28,10582.0,Champions
+Ben Ferrer,1,27,6209.0,Loyal
+Ben Peterman,2,39,7096.0,Loyal
+Ben Wallace,38,30,7011.0,Loyal
+Benjamin Farhat,8,18,4510.0,Potential
+Benjamin Patterson,65,24,4214.0,Potential
+Benjamin Venier,187,13,4891.0,Potential
+Berenike Kampe,8,23,2907.0,At Risk
+Beth Fritzler,3,26,3046.0,At Risk
+Beth Paige,3,19,3134.0,At Risk
+Beth Thompson,10,36,5510.0,Potential
+Bill Donatelli,31,26,4852.0,Potential
+Bill Eplett,72,17,7387.0,Loyal
+Bill Overfelt,3,23,3406.0,At Risk
+Bill Shonely,7,23,3032.0,At Risk
+Bill Stewart,10,35,6917.0,Loyal
+Bill Tyler,10,20,3331.0,At Risk
+Bobby Elias,3,30,10016.0,Champions
+Bobby Odegard,9,24,2973.0,At Risk
+Bobby Trafton,33,25,5898.0,Loyal
+Brad Eason,9,29,5226.0,Potential
+Brad Norvell,4,28,6997.0,Loyal
+Brad Thomas,12,29,4072.0,Potential
+Bradley Drucker,1,14,5101.0,Potential
+Bradley Nguyen,2,30,7476.0,Loyal
+Bradley Talbott,39,18,1576.0,At Risk
+Brenda Bowman,10,25,6065.0,Loyal
+Brendan Dodson,72,12,3999.0,Potential
+Brendan Murry,93,18,5441.0,Potential
+Brendan Sweed,64,23,5597.0,Potential
+Brian Dahlen,248,21,3879.0,At Risk
+Brian DeCherney,31,25,4262.0,Potential
+Brian Derr,2,34,10240.0,Champions
+Brian Moss,33,28,7413.0,Loyal
+Brian Stugart,11,31,6479.0,Loyal
+Brian Thompson,2,37,5906.0,Loyal
+Brooke Gillingham,191,25,7168.0,Loyal
+Brosina Hoffman,5,42,11099.0,Champions
+Bruce Degenhardt,98,20,3442.0,At Risk
+Bruce Geld,39,13,6066.0,Loyal
+Bruce Stewart,40,41,9375.0,Champions
+Bryan Davis,185,25,4991.0,Potential
+Bryan Mills,31,20,9584.0,Champions
+Bryan Spruell,35,40,9173.0,Champions
+Candace McMahon,277,12,2030.0,At Risk
+Cari MacIntyre,39,36,10157.0,Champions
+Cari Sayre,6,24,4125.0,Potential
+Cari Schnelling,32,27,6240.0,Loyal
+Carl Jackson,35,22,5304.0,Potential
+Carl Ludwig,185,20,7794.0,Champions
+Carl Weiss,4,29,6400.0,Loyal
+Carlos Daly,39,28,8446.0,Champions
+Carlos Meador,100,5,1561.0,At Risk
+Carlos Soltero,7,23,5960.0,Loyal
+Carol Adams,5,24,15976.0,Champions
+Carol Darley,36,17,4677.0,Potential
+Carol Triggs,10,16,7021.0,Loyal
+Caroline Jumper,134,26,13142.0,Champions
+Cassandra Brandow,4,27,6857.0,Loyal
+Catherine Glotzbach,3,11,1184.0,At Risk
+Cathy Armstrong,491,12,2168.0,At Risk
+Cathy Hwang,71,14,4475.0,Potential
+Cathy Prescott,64,29,7802.0,Champions
+Chad Cunningham,33,32,5976.0,Loyal
+Chad McGuire,2,19,8945.0,Champions
+Chad Sievert,37,19,2765.0,At Risk
+Charles Crestani,64,21,3981.0,Potential
+Charles McCrossin,8,19,6074.0,Loyal
+Charles Sheldon,39,21,4825.0,Potential
+Charlotte Melton,2,22,4066.0,Potential
+Chloris Kastensmidt,127,42,5899.0,Loyal
+Chris Cortes,2,30,4019.0,Potential
+Chris McAfee,33,18,3117.0,At Risk
+Chris Selesnick,8,27,4115.0,Potential
+Christina Anderson,33,29,8329.0,Champions
+Christina DeMoss,37,45,13276.0,Champions
+Christina VanderZanden,33,28,3716.0,At Risk
+Christine Abelman,3,18,3102.0,At Risk
+Christine Kargatis,102,17,2318.0,At Risk
+Christine Phan,11,22,7475.0,Loyal
+Christine Sundaresam,11,27,2769.0,At Risk
+Christopher Conant,36,29,12809.0,Champions
+Christopher Martinez,39,20,5301.0,Potential
+Christopher Schild,9,24,6810.0,Loyal
+Christy Brittain,8,32,8153.0,Champions
+Chuck Clark,12,20,5164.0,Potential
+Chuck Magee,36,16,6485.0,Loyal
+Chuck Sachs,9,43,14635.0,Champions
+Cindy Chapman,37,39,8856.0,Champions
+Cindy Schnelling,65,25,5030.0,Potential
+Cindy Stewart,9,18,4071.0,Potential
+Claire Gute,10,19,4279.0,Potential
+Claudia Bergmann,71,33,6026.0,Loyal
+Clay Cheatham,9,32,5305.0,Potential
+Clay Ludtke,3,36,7791.0,Champions
+Clay Rozendal,4,13,3942.0,At Risk
+Clytie Kelty,155,33,5889.0,Loyal
+Corey Catlett,70,13,2626.0,At Risk
+Corey Roper,184,23,4655.0,Potential
+Corey-Lock,1,12,2451.0,At Risk
+Corinna Mitchell,9,29,10144.0,Champions
+Craig Carreira,9,25,4825.0,Potential
+Craig Carroll,36,22,6339.0,Loyal
+Craig Leslie,3,13,3004.0,At Risk
+Craig Molinari,99,32,7592.0,Loyal
+Craig Reiter,4,22,2992.0,At Risk
+Craig Yedwab,42,26,4961.0,Potential
+Cyma Kinney,39,29,4825.0,Potential
+Cynthia Arntzen,102,23,12453.0,Champions
+Cynthia Delaney,124,14,1298.0,At Risk
+Cynthia Voltz,99,18,4041.0,Potential
+Cyra Reiten,37,16,3178.0,At Risk
+Damala Kotsonis,3,43,12388.0,Champions
+Dan Campbell,99,14,1788.0,At Risk
+Dan Lawera,39,25,7166.0,Loyal
+Dan Reichenbach,11,25,4300.0,Potential
+Dana Kaydos,36,28,10356.0,Champions
+Daniel Byrd,3,26,6450.0,Loyal
+Daniel Lacy,39,34,4218.0,Potential
+Daniel Raglin,9,36,14613.0,Champions
+Dario Medina,94,19,6130.0,Loyal
+Darren Budd,39,10,3280.0,At Risk
+Darren Koutras,5,32,9618.0,Champions
+Darren Powers,71,31,7796.0,Champions
+Darrin Martin,4,27,5969.0,Loyal
+Darrin Sayre,134,26,5234.0,Potential
+Darrin Van Huff,1,31,4938.0,Potential
+Dave Brooks,68,12,4228.0,Potential
+Dave Hallsten,93,20,3192.0,At Risk
+Dave Kipp,1,29,8767.0,Champions
+Dave Poirier,158,23,10460.0,Champions
+David Bremer,10,13,1116.0,At Risk
+David Flashing,397,12,4085.0,Potential
+David Kendrick,39,25,4916.0,Potential
+David Philippe,38,18,11109.0,Champions
+David Smith,5,31,5834.0,Loyal
+David Wiener,9,20,4030.0,Potential
+Dean Braden,3,27,4782.0,Potential
+Dean Katz,8,23,4436.0,Potential
+Dean percer,7,31,15367.0,Champions
+Deanra Eno,1,22,6098.0,Loyal
+Deborah Brumfield,35,15,4642.0,Potential
+Debra Catini,5,18,5421.0,Potential
+Deirdre Greer,12,29,3605.0,At Risk
+Delfina Latchford,4,35,10527.0,Champions
+Denise Leinenbach,9,28,6696.0,Loyal
+Denise Monton,4,25,6895.0,Loyal
+Dennis Bolton,67,17,5012.0,Potential
+Dennis Kane,1,34,6409.0,Loyal
+Dennis Pardue,191,19,2680.0,At Risk
+Denny Blanton,10,12,3627.0,At Risk
+Denny Joy,4,35,8629.0,Champions
+Denny Ordway,127,27,5456.0,Potential
+Dianna Arnett,438,22,7125.0,Loyal
+Dianna Vittorini,8,19,5812.0,Loyal
+Dianna Wilson,37,41,14829.0,Champions
+Dionis Lloyd,4,21,9331.0,Champions
+Don Jones,39,28,7371.0,Loyal
+Don Miller,40,30,6455.0,Loyal
+Don Weiss,36,17,2303.0,At Risk
+Dorothy Badders,95,19,4076.0,Potential
+Dorothy Dickinson,92,29,6174.0,Loyal
+Dorothy Wardle,10,25,3751.0,At Risk
+Dorris liebe,67,29,7705.0,Champions
+Doug Bickford,9,33,6193.0,Loyal
+Doug Jacobs,130,16,3700.0,At Risk
+Doug O'Connell,8,16,3746.0,At Risk
+Duane Benoit,12,16,2014.0,At Risk
+Duane Huffman,2,23,1938.0,At Risk
+Duane Noonan,1,26,4593.0,Potential
+Ed Braxton,134,24,6274.0,Loyal
+Ed Jacobs,31,20,4227.0,Potential
+Ed Ludwig,8,24,4191.0,Potential
+Edward Becker,32,21,5126.0,Potential
+Edward Hooks,3,36,7990.0,Champions
+Edward Nazzal,12,21,3586.0,At Risk
+Eileen Kiefer,95,21,3700.0,At Risk
+Eleni McCrary,40,24,8547.0,Champions
+Elizabeth Moffitt,37,35,7459.0,Loyal
+Ellis Ballard,72,25,11293.0,Champions
+Elpida Rittenbach,35,33,13606.0,Champions
+Emily Burns,277,10,1471.0,At Risk
+Emily Ducich,38,19,7561.0,Loyal
+Emily Grady,4,37,11673.0,Champions
+Emily Phan,31,26,5428.0,Potential
+Eric Barreto,1,23,4630.0,Potential
+Eric Hoffmann,39,30,3691.0,At Risk
+Eric Murdock,8,51,11624.0,Champions
+Erica Bern,1,24,3833.0,At Risk
+Erica Hackney,557,21,6127.0,Loyal
+Erica Hernandez,10,18,3328.0,At Risk
+Erica Smith,8,30,4191.0,Potential
+Erin Ashbrook,134,32,4730.0,Potential
+Erin Creighton,35,19,1446.0,At Risk
+Erin Mull,34,22,2075.0,At Risk
+Erin Smith,10,33,9414.0,Champions
+Eudokia Martin,95,20,2789.0,At Risk
+Eugene Barchas,2,25,3973.0,At Risk
+Eugene Hildebrand,4,25,5825.0,Loyal
+Eugene Moren,6,33,9028.0,Champions
+Eva Jacobs,4,29,11460.0,Champions
+Evan Bailliet,1,14,1647.0,At Risk
+Evan Henry,103,22,4584.0,Potential
+Evan Minnotte,68,35,9314.0,Champions
+Filia McAdams,101,24,5711.0,Loyal
+Frank Atkinson,4,24,5492.0,Potential
+Frank Carlisle,95,15,2031.0,At Risk
+Frank Gastineau,33,17,2032.0,At Risk
+Frank Hawley,32,13,3312.0,At Risk
+Frank Merwin,36,40,8114.0,Champions
+Frank Olsen,4,39,5927.0,Loyal
+Frank Preis,5,27,6680.0,Loyal
+Fred Chung,92,12,3062.0,At Risk
+Fred Harton,4,12,1302.0,At Risk
+Fred Hopkins,159,31,13315.0,Champions
+Fred McMath,94,17,2620.0,At Risk
+Fred Wasserman,184,24,4147.0,Potential
+Gary Hansen,2,39,6406.0,Loyal
+Gary Hwang,1,47,10918.0,Champions
+Gary McGarr,1,20,8025.0,Champions
+Gary Mitchum,124,15,5717.0,Loyal
+Gary Zandusky,3,25,6982.0,Loyal
+Gene Hale,33,24,5348.0,Potential
+Gene McClure,215,16,5258.0,Potential
+George Ashbrook,4,24,6986.0,Loyal
+George Bell,95,23,4276.0,Potential
+George Zrebassa,12,12,2544.0,At Risk
+Georgia Rosenberg,31,24,3401.0,At Risk
+Giulietta Baptist,67,19,2161.0,At Risk
+Giulietta Dortch,192,18,6123.0,Loyal
+Giulietta Weimer,10,20,4273.0,Potential
+Grace Kelly,8,12,2431.0,At Risk
+Grant Thornton,38,24,14128.0,Champions
+Greg Guthrie,40,29,7547.0,Loyal
+Greg Hansen,457,13,2254.0,At Risk
+Greg Matthias,134,31,8065.0,Champions
+Greg Maxwell,92,31,9031.0,Champions
+Greg Tran,37,25,7475.0,Loyal
+Guy Armstrong,31,21,2385.0,At Risk
+Guy Phonely,38,29,6066.0,Loyal
+Guy Thornton,2,25,6165.0,Loyal
+Hallie Redmond,101,22,5731.0,Loyal
+Harold Dahlen,185,33,7537.0,Loyal
+Harold Engle,157,18,3066.0,At Risk
+Harold Pawlan,12,16,3982.0,Potential
+Harold Ryan,33,17,3337.0,At Risk
+Harry Greene,12,41,5202.0,Potential
+Harry Marie,3,27,3976.0,At Risk
+Heather Jas,123,25,6421.0,Loyal
+Heather Kirkland,38,20,4921.0,Potential
+Helen Abelman,64,29,9205.0,Champions
+Helen Andreada,2,25,4742.0,Potential
+Helen Wasserman,38,30,9179.0,Champions
+Henia Zydlo,32,24,6102.0,Loyal
+Henry Goldwyn,5,19,8566.0,Champions
+Henry MacAllister,7,24,3403.0,At Risk
+Herbert Flentye,3,39,5725.0,Loyal
+Hilary Holden,36,24,6649.0,Loyal
+Hunter Glantz,5,18,5254.0,Potential
+Hunter Lopez,12,20,8181.0,Champions
+Ionia McGrath,1,19,6155.0,Loyal
+Irene Maddox,32,26,6896.0,Loyal
+Ivan Gibson,3,28,6710.0,Loyal
+Ivan Liston,98,42,8275.0,Champions
+Jack Garza,103,34,6588.0,Loyal
+Jack Lebron,3,36,4566.0,Potential
+Jack O'Briant,39,22,4185.0,Potential
+James Galang,11,23,4677.0,Potential
+James Lanier,38,18,4359.0,Potential
+Jamie Frazer,10,48,13685.0,Champions
+Jamie Kunitz,401,18,2366.0,At Risk
+Jane Waco,71,15,9453.0,Champions
+Janet Lee,73,22,3734.0,At Risk
+Janet Martin,165,26,5497.0,Potential
+Janet Molinari,35,30,7801.0,Champions
+Jas O'Carroll,1,13,3134.0,At Risk
+Jason Fortune-,38,14,3558.0,At Risk
+Jason Gross,1,18,4687.0,Potential
+Jason Klamczynski,336,31,11969.0,Champions
+Jasper Cacioppo,68,35,9535.0,Champions
+Jay Fein,225,10,1096.0,At Risk
+Jay Kimmel,3,25,5248.0,Potential
+Jenna Caffey,33,40,4888.0,Potential
+Jennifer Braxton,33,39,3157.0,At Risk
+Jennifer Ferguson,9,35,12969.0,Champions
+Jennifer Halladay,11,34,6156.0,Loyal
+Jennifer Jackson,1,13,2458.0,At Risk
+Jennifer Patt,62,32,5018.0,Potential
+Jeremy Ellison,9,11,647.0,At Risk
+Jeremy Farry,92,34,5607.0,Loyal
+Jeremy Lonsdale,12,24,4544.0,Potential
+Jeremy Pistek,4,39,10090.0,Champions
+Jessica Myrick,5,22,3370.0,At Risk
+Jesus Ocampo,93,10,1851.0,At Risk
+Jill Fjeld,36,42,12487.0,Champions
+Jill Matthias,31,22,3325.0,At Risk
+Jill Stevenson,101,31,7825.0,Champions
+Jim Epp,33,30,8238.0,Champions
+Jim Karlsson,102,19,5211.0,Potential
+Jim Kriz,133,17,8203.0,Champions
+Jim Mitchum,190,28,5956.0,Loyal
+Jim Radford,215,22,4069.0,Potential
+Jim Sink,124,33,7995.0,Champions
+Jocasta Rupert,368,11,1612.0,At Risk
+Joe Elijah,31,35,12259.0,Champions
+Joe Kamberova,66,27,5871.0,Loyal
+Joel Eaton,33,28,8466.0,Champions
+Joel Jenkins,31,30,6425.0,Loyal
+John Castell,10,18,3116.0,At Risk
+John Dryer,99,23,5742.0,Loyal
+John Grady,184,29,6158.0,Loyal
+John Huston,92,31,9837.0,Champions
+John Lee,3,30,5840.0,Loyal
+John Lucas,99,19,4265.0,Potential
+John Murray,164,22,3245.0,At Risk
+John Stevenson,127,14,3246.0,At Risk
+Jonathan Doherty,8,32,9758.0,Champions
+Jonathan Howell,185,33,8321.0,Champions
+Joni Blumstein,4,17,4126.0,Potential
+Joni Sundaresam,5,11,1327.0,At Risk
+Joni Wasserman,63,29,5863.0,Loyal
+Joseph Airdo,96,24,4113.0,Potential
+Joseph Holt,5,42,7685.0,Loyal
+Joy Bell-,40,35,6314.0,Loyal
+Joy Daniels,38,34,4011.0,Potential
+Joy Smith,3,25,9970.0,Champions
+Julia Barnett,10,36,12543.0,Champions
+Julia Dunbar,94,19,3334.0,At Risk
+Julia West,97,28,5666.0,Loyal
+Juliana Krohn,4,43,13784.0,Champions
+Julie Creighton,39,26,3517.0,At Risk
+Julie Kriz,92,24,3333.0,At Risk
+Julie Prescott,8,27,5638.0,Loyal
+Justin Deggeller,3,18,4559.0,Potential
+Justin Ellison,2,27,7107.0,Loyal
+Justin Hirsh,9,34,11885.0,Champions
+Justin MacKendrick,39,22,3011.0,At Risk
+Justin Ritter,128,12,5363.0,Potential
+Kalyca Meade,3,19,2785.0,At Risk
+Karen Bern,102,21,4399.0,Potential
+Karen Carlisle,39,17,2183.0,At Risk
+Karen Daniels,64,31,14581.0,Champions
+Karen Ferguson,92,28,12912.0,Champions
+Karen Seio,277,14,1251.0,At Risk
+Karl Braun,4,33,7365.0,Loyal
+Katharine Harms,1,30,9861.0,Champions
+Katherine Ducich,39,9,976.0,At Risk
+Katherine Hughes,32,29,4561.0,Potential
+Katherine Murray,2,32,5003.0,Potential
+Katherine Nockton,1,31,8930.0,Champions
+Katrina Bavinger,1,22,2791.0,At Risk
+Katrina Edelman,8,26,5486.0,Potential
+Katrina Willman,8,35,6558.0,Loyal
+Kean Nguyen,34,33,7654.0,Loyal
+Kean Takahito,373,14,2168.0,At Risk
+Kean Thornton,9,17,6246.0,Loyal
+Keith Dawkins,37,34,15848.0,Champions
+Keith Herrera,4,27,8003.0,Champions
+Kelly Andreada,11,37,6704.0,Loyal
+Kelly Collister,35,32,16560.0,Champions
+Kelly Lampkin,38,38,7685.0,Champions
+Kelly Williams,4,27,5338.0,Potential
+Ken Black,306,32,5764.0,Loyal
+Ken Brennan,3,23,2700.0,At Risk
+Ken Dana,161,24,2550.0,At Risk
+Ken Heidel,9,36,5430.0,Potential
+Ken Lonsdale,10,37,7312.0,Loyal
+Khloe Miller,12,21,3790.0,At Risk
+Kimberly Carter,1,19,3998.0,Potential
+Kristen Hastings,131,40,7601.0,Loyal
+Kristina Nunn,184,19,3303.0,At Risk
+Kunst Miller,10,20,5362.0,Potential
+Larry Blacks,39,22,4269.0,Potential
+Larry Hughes,9,18,5256.0,Potential
+Larry Tron,8,19,9643.0,Champions
+Laura Armstrong,65,29,7933.0,Champions
+Laurel Beltran,38,43,12919.0,Champions
+Laurel Elliston,3,20,5205.0,Potential
+Laurel Workman,4,28,7373.0,Loyal
+Lauren Leatherbury,8,19,3929.0,At Risk
+Lela Donovan,62,15,3014.0,At Risk
+Lena Cacioppo,5,33,4998.0,Potential
+Lena Creighton,99,17,2758.0,At Risk
+Lena Hernandez,3,21,5608.0,Loyal
+Lena Radford,8,30,8483.0,Champions
+Linda Cazamias,31,31,7692.0,Champions
+Linda Southworth,9,24,5508.0,Potential
+Lindsay Castell,101,12,3507.0,At Risk
+Lindsay Shagiari,2,20,2981.0,At Risk
+Lindsay Williams,5,19,3782.0,At Risk
+Lisa DeCherney,31,35,6413.0,Loyal
+Lisa Hazard,40,11,1309.0,At Risk
+Lisa Ryan,36,33,9457.0,Champions
+Liz Carlisle,36,29,7904.0,Champions
+Liz MacKendrick,37,20,4910.0,Potential
+Liz Pelletier,37,20,2784.0,At Risk
+Liz Preis,1,40,7212.0,Loyal
+Liz Thompson,36,41,16633.0,Champions
+Liz Willingham,37,26,5355.0,Potential
+Logan Currie,94,25,4174.0,Potential
+Logan Haushalter,285,27,5796.0,Loyal
+Lori Olson,96,20,4041.0,Potential
+Luke Foster,4,31,7495.0,Loyal
+Luke Schmidt,134,15,5835.0,Loyal
+Luke Weiss,3,28,7965.0,Champions
+Lycoris Saunders,100,28,3526.0,At Risk
+Lynn Smith,32,17,3222.0,At Risk
+Magdelene Morse,33,22,6016.0,Loyal
+Marc Crier,124,26,8500.0,Champions
+Marc Harrigan,33,35,8619.0,Champions
+Maria Bertelson,4,22,4133.0,Potential
+Maria Etezadi,2,41,16535.0,Champions
+Maria Zettner,3,26,9141.0,Champions
+Maribeth Dona,8,39,10083.0,Champions
+Maribeth Schnelling,9,31,8382.0,Champions
+Maribeth Yedwab,11,29,10621.0,Champions
+Marina Lichtenstein,281,22,9440.0,Champions
+Maris LaWare,31,16,5826.0,Loyal
+Mark Cousins,5,16,5895.0,Loyal
+Mark Haberlin,128,20,3603.0,At Risk
+Mark Hamilton,36,27,6913.0,Loyal
+Mark Packer,250,24,3896.0,At Risk
+Mark Van Huff,1,21,4759.0,Potential
+Mary O'Rourke,129,23,6309.0,Loyal
+Mary Zewe,5,28,8104.0,Champions
+MaryBeth Skach,33,25,8654.0,Champions
+Mathew Reese,133,44,12058.0,Champions
+Matt Abelman,402,37,6185.0,Loyal
+Matt Collins,9,28,10348.0,Champions
+Matt Collister,33,18,4916.0,Potential
+Matt Connell,31,18,4968.0,Potential
+Matt Hagelstein,5,34,7627.0,Loyal
+Matthew Clasen,11,38,14500.0,Champions
+Matthew Grinstein,1,22,4913.0,Potential
+Maureen Fritzler,33,24,6515.0,Loyal
+Maureen Gastineau,63,34,9805.0,Champions
+Maureen Gnade,285,19,4251.0,Potential
+Maurice Satty,11,20,2995.0,At Risk
+Max Engle,10,31,4823.0,Potential
+Max Jones,3,32,7303.0,Loyal
+Max Ludwig,8,35,9211.0,Champions
+Maxwell Schwartz,31,22,3036.0,At Risk
+Maya Herman,159,17,4248.0,Potential
+Meg O'Connel,12,17,3589.0,At Risk
+Meg Tillman,31,27,6952.0,Loyal
+Melanie Seite,5,17,1628.0,At Risk
+Michael Chen,2,21,6367.0,Loyal
+Michael Dominguez,525,15,2993.0,At Risk
+Michael Grace,33,28,5998.0,Loyal
+Michael Granlund,8,19,5638.0,Loyal
+Michael Kennedy,3,33,7594.0,Loyal
+Michael Moore,10,22,11551.0,Champions
+Michael Nguyen,12,27,8426.0,Champions
+Michael Oakman,38,16,1637.0,At Risk
+Michael Paige,9,34,8000.0,Champions
+Michael Stewart,8,18,8976.0,Champions
+Michelle Arnett,101,22,6649.0,Loyal
+Michelle Ellison,129,16,4202.0,Potential
+Michelle Huthwaite,2,12,3951.0,At Risk
+Michelle Lonsdale,128,17,3171.0,At Risk
+Michelle Moray,8,33,5011.0,Potential
+Michelle Tran,185,34,7989.0,Champions
+Mick Brown,65,29,6289.0,Loyal
+Mick Crebagga,99,22,4805.0,Potential
+Mick Hernandez,40,18,2634.0,At Risk
+Mike Caudle,33,19,4191.0,Potential
+Mike Gockenbach,66,16,7663.0,Loyal
+Mike Kennedy,4,36,5042.0,Potential
+Mike Pelletier,4,33,10450.0,Champions
+Mike Vittorini,1,27,8578.0,Champions
+Mitch Gastineau,2,31,6623.0,Loyal
+Mitch Webber,98,35,11588.0,Champions
+Mitch Willingham,194,20,3702.0,At Risk
+Monica Federle,102,42,11709.0,Champions
+Muhammed Lee,99,16,2169.0,At Risk
+Muhammed MacIntyre,31,23,3547.0,At Risk
+Muhammed Yedwab,39,40,8616.0,Champions
+Nancy Lomonaco,7,22,5429.0,Potential
+Naresj Patel,7,31,7222.0,Loyal
+Nat Carroll,186,21,4823.0,Potential
+Nat Gilpin,42,33,6661.0,Loyal
+Natalie DeCherney,9,27,4300.0,Potential
+Natalie Fritzler,2,24,8019.0,Champions
+Natalie Webber,99,41,13114.0,Champions
+Nathan Cano,191,12,2739.0,At Risk
+Nathan Gelder,9,24,10624.0,Champions
+Nathan Mautz,12,50,18382.0,Champions
+Neil Ducich,7,22,9031.0,Champions
+Neil Französisch,8,34,9089.0,Champions
+Neil Knudson,8,25,5555.0,Potential
+Neola Schneider,72,29,7033.0,Loyal
+Neoma Murray,1,30,8238.0,Champions
+Nick Crebassa,3,18,7406.0,Loyal
+Nick Radford,9,36,6368.0,Loyal
+Nick Zandusky,67,38,10807.0,Champions
+Nicole Brennan,434,12,4396.0,Potential
+Nicole Fjeld,96,18,4161.0,Potential
+Nicole Hansen,2,37,12552.0,Champions
+Noah Childs,2,27,6735.0,Loyal
+Noel Staavos,38,40,6428.0,Loyal
+Nona Balk,1,17,4259.0,Potential
+Nora Paige,40,14,2941.0,At Risk
+Nora Pelletier,68,26,6285.0,Loyal
+Nora Preis,10,18,6579.0,Loyal
+Odella Nelson,33,18,2217.0,At Risk
+Olvera Toch,38,25,4300.0,Potential
+Pamela Coakley,3,28,5680.0,Loyal
+Pamela Stobb,11,18,5800.0,Loyal
+Parhena Norris,12,28,5896.0,Loyal
+Patricia Hirasaki,39,17,4660.0,Potential
+Patrick Bzostek,7,28,7610.0,Loyal
+Patrick Gardner,2,36,5926.0,Loyal
+Patrick Jones,32,19,9373.0,Champions
+Patrick O'Brill,70,33,8668.0,Champions
+Patrick O'Donnell,99,44,11815.0,Champions
+Patrick Ryan,7,33,5946.0,Loyal
+Paul Gonzalez,5,40,8213.0,Champions
+Paul Knutson,95,21,4386.0,Potential
+Paul Lucas,31,17,1973.0,At Risk
+Paul MacIntyre,3,24,8710.0,Champions
+Paul Prost,36,47,11994.0,Champions
+Paul Stevenson,9,20,7362.0,Loyal
+Paul Van Hugh,3,27,7430.0,Loyal
+Pauline Chand,3,19,4961.0,Potential
+Pauline Johnson,1,29,4433.0,Potential
+Pauline Webber,31,20,3042.0,At Risk
+Penelope Sewall,2,16,4370.0,Potential
+Pete Armstrong,5,27,2922.0,At Risk
+Pete Kriz,35,27,6606.0,Loyal
+Pete Takahito,128,17,4949.0,Potential
+Peter Bühler,39,20,3936.0,At Risk
+Peter Fuller,65,25,9485.0,Champions
+Peter McVee,33,19,3542.0,At Risk
+Philip Brown,42,19,1328.0,At Risk
+Philip Fox,73,18,5328.0,Potential
+Philisse Overcash,11,33,8138.0,Champions
+Phillina Ober,68,28,5316.0,Potential
+Phillip Breyer,7,33,7371.0,Loyal
+Phillip Flathmann,4,40,8852.0,Champions
+Pierre Wener,101,16,1635.0,At Risk
+Quincy Jones,7,26,15508.0,Champions
+Rachel Payne,247,26,4152.0,Potential
+Ralph Arnett,11,47,14069.0,Champions
+Ralph Kennedy,10,21,5169.0,Potential
+Ralph Ritter,1,28,5803.0,Loyal
+Randy Bradley,65,36,8948.0,Champions
+Randy Ferguson,102,36,11265.0,Champions
+Raymond Buch,2,29,6293.0,Loyal
+Raymond Messe,3,23,5153.0,Potential
+Resi Pölking,93,35,12119.0,Champions
+Ricardo Emerson,10,12,3949.0,At Risk
+Ricardo Sperren,103,27,4688.0,Potential
+Richard Bierner,1,24,4896.0,Potential
+Richard Eichhorn,5,18,4243.0,Potential
+Rick Bensley,10,25,4879.0,Potential
+Rick Duston,186,27,7612.0,Loyal
+Rick Hansen,6,24,6732.0,Loyal
+Rick Huthwaite,2,22,6219.0,Loyal
+Rick Reed,31,36,6741.0,Loyal
+Rick Wilson,8,23,7585.0,Loyal
+Ritsa Hightower,1,31,11722.0,Champions
+Rob Beeghly,2,17,1752.0,At Risk
+Rob Dowd,7,33,11050.0,Champions
+Rob Haberlin,94,26,6348.0,Loyal
+Rob Lucas,102,45,12563.0,Champions
+Rob Williams,71,22,3748.0,At Risk
+Robert Barroso,132,16,2531.0,At Risk
+Robert Dilbeck,9,34,11195.0,Champions
+Robert Marley,123,16,4069.0,Potential
+Robert Waldorf,35,38,5130.0,Potential
+Roger Barcio,36,18,4903.0,Potential
+Roger Demir,3,21,3455.0,At Risk
+Roland Fjeld,4,29,7464.0,Loyal
+Roland Murray,123,13,2955.0,At Risk
+Roland Schwarz,95,20,8045.0,Champions
+Rose O'Brian,103,31,5605.0,Potential
+Ross Baird,12,21,4991.0,Potential
+Ross DeVincentis,35,38,6614.0,Loyal
+Roy Collins,100,18,3755.0,At Risk
+Roy Französisch,1,21,3501.0,At Risk
+Roy Phan,3,27,7337.0,Loyal
+Roy Skaria,1,15,1706.0,At Risk
+Ruben Ausman,37,26,5507.0,Potential
+Ruben Dartt,71,43,8551.0,Champions
+Russell Applegate,9,30,9572.0,Champions
+Russell D'Ascenzo,10,35,5811.0,Loyal
+Ryan Akin,2,32,7601.0,Loyal
+Ryan Crowe,4,24,4105.0,Potential
+Sally Hughsby,7,23,4602.0,Potential
+Sally Knutson,12,17,4320.0,Potential
+Sally Matthias,99,22,2626.0,At Risk
+Sam Craven,37,21,3084.0,At Risk
+Sam Zeldin,38,31,8062.0,Champions
+Sample Company A,73,26,5825.0,Loyal
+Sandra Flanagan,40,16,4616.0,Potential
+Sandra Glassco,428,10,1319.0,At Risk
+Sanjit Chand,67,26,4488.0,Potential
+Sanjit Engle,67,39,14935.0,Champions
+Sanjit Jacobs,123,33,6797.0,Loyal
+Saphhira Shifley,11,22,7074.0,Loyal
+Sara Luxemburg,11,29,4959.0,Potential
+Sarah Bern,8,21,3645.0,At Risk
+Sarah Brown,284,22,7009.0,Loyal
+Sarah Foster,41,32,8982.0,Champions
+Sarah Jordon,10,42,6208.0,Loyal
+Scot Coram,11,22,8248.0,Champions
+Scot Wooten,4,28,9775.0,Champions
+Scott Cohen,123,23,2262.0,At Risk
+Scott Williamson,3,36,10214.0,Champions
+Sean Braxton,94,24,6195.0,Loyal
+Sean Christensen,11,24,9139.0,Champions
+Sean Miller,3,15,3824.0,At Risk
+Sean O'Donnell,11,33,9250.0,Champions
+Sean Wendt,101,23,6027.0,Loyal
+Seth Vernon,69,38,10476.0,Champions
+Shahid Collister,12,48,7836.0,Champions
+Shahid Hopkins,5,37,8024.0,Champions
+Shahid Shariari,8,23,3038.0,At Risk
+Sharelle Roach,34,17,1837.0,At Risk
+Shaun Chance,32,22,2155.0,At Risk
+Shaun Weien,94,12,1372.0,At Risk
+Sheri Gordon,72,30,8076.0,Champions
+Shirley Daniels,92,35,5802.0,Loyal
+Shirley Jackson,157,20,4426.0,Potential
+Shirley Schmidt,701,3,122.0,At Risk
+Shui Tom,185,16,3084.0,At Risk
+Sibella Parks,4,12,2474.0,At Risk
+Skye Norling,65,32,3873.0,At Risk
+Sonia Cooley,9,21,3087.0,At Risk
+Sonia Sunley,10,31,8362.0,Champions
+Speros Goranitis,65,25,7439.0,Loyal
+Stefania Perrino,39,22,5459.0,Potential
+Stefanie Holloman,12,17,2992.0,At Risk
+Stephanie Phelps,2,27,7516.0,Loyal
+Stephanie Ulpright,2,31,4409.0,Potential
+Steve Carroll,3,24,7142.0,Loyal
+Steve Chapman,37,24,9348.0,Champions
+Steve Nguyen,309,11,1116.0,At Risk
+Steven Cartwright,73,21,4816.0,Potential
+Steven Roelle,3,22,3532.0,At Risk
+Steven Ward,31,44,11677.0,Champions
+Stewart Carmichael,189,23,6029.0,Loyal
+Stewart Visinsky,3,40,8134.0,Champions
+Stuart Calhoun,12,24,5895.0,Loyal
+Stuart Van,93,16,7154.0,Loyal
+Sue Ann Reed,31,25,5476.0,Potential
+Sung Chung,35,17,4472.0,Potential
+Sung Pak,36,14,2434.0,At Risk
+Sung Shariari,102,7,716.0,At Risk
+Susan Gilcrest,37,18,4112.0,Potential
+Susan MacKendrick,457,19,6068.0,Loyal
+Susan Pistek,193,22,9103.0,Champions
+Susan Vittorini,10,14,5150.0,Potential
+Suzanne McNair,7,15,1724.0,At Risk
+Sylvia Foulston,71,25,5461.0,Potential
+Tamara Chand,9,29,25679.0,Champions
+Tamara Dahlen,2,25,2490.0,At Risk
+Tamara Manning,131,13,1590.0,At Risk
+Tamara Willingham,1,20,5132.0,Potential
+Tanja Norvell,4,27,5275.0,Potential
+Ted Butterfield,101,13,1056.0,At Risk
+Ted Trevino,63,22,6910.0,Loyal
+Thais Sissman,31,21,2039.0,At Risk
+Thea Hendricks,36,27,7670.0,Loyal
+Thea Hudgings,40,19,5001.0,Potential
+Theone Pippenger,3,48,12720.0,Champions
+Theresa Coyne,8,33,6023.0,Loyal
+Theresa Swint,162,12,1195.0,At Risk
+Thomas Boland,31,26,6751.0,Loyal
+Thomas Brumley,31,18,6617.0,Loyal
+Thomas Seio,8,28,7477.0,Loyal
+Thomas Thornton,99,17,3065.0,At Risk
+Tiffany House,99,24,5027.0,Potential
+Tim Brockman,12,35,7199.0,Loyal
+Tim Taslimi,33,21,4124.0,Potential
+Toby Braunhardt,39,24,3281.0,At Risk
+Toby Carlisle,9,19,5245.0,Potential
+Toby Gnade,9,30,7087.0,Loyal
+Toby Ritter,251,24,3732.0,At Risk
+Toby Swindell,64,16,3652.0,At Risk
+Todd Boyes,36,35,4857.0,Potential
+Todd Sumrall,68,38,16444.0,Champions
+Tom Ashbrook,8,20,4338.0,Potential
+Tom Boeckenhauer,7,48,8220.0,Champions
+Tom Prescott,100,29,5700.0,Loyal
+Tom Stivers,1,14,5182.0,Potential
+Tom Zandusky,92,31,4875.0,Potential
+Tonja Turnell,129,26,5835.0,Loyal
+Tony Chapman,33,24,4926.0,Potential
+Tony Molinari,37,28,5660.0,Loyal
+Tony Sayre,35,10,7448.0,Loyal
+Tracy Blumstein,12,34,8126.0,Champions
+Tracy Collins,2,24,3737.0,At Risk
+Tracy Hopkins,103,13,2666.0,At Risk
+Tracy Poddar,127,22,3968.0,At Risk
+Tracy Zic,33,25,5863.0,Loyal
+Troy Blackwell,10,17,4034.0,Potential
+Troy Staebel,2,27,5285.0,Potential
+Trudy Brown,12,13,3927.0,At Risk
+Trudy Glocke,8,24,3477.0,At Risk
+Trudy Schmidt,66,25,5944.0,Loyal
+Valerie Dominguez,39,28,8671.0,Champions
+Valerie Mitchum,36,23,3036.0,At Risk
+Valerie Takahito,12,27,7423.0,Loyal
+Vicky Freymann,156,26,5525.0,Potential
+Victor Preis,10,28,5048.0,Potential
+Victoria Brennan,2,18,4818.0,Potential
+Victoria Pisteka,71,29,8193.0,Champions
+Victoria Wilson,10,23,5198.0,Potential
+Vivek Gonzalez,92,32,6954.0,Loyal
+Vivek Grady,220,14,2527.0,At Risk
+Vivek Sundaresam,4,17,4778.0,Potential
+Vivian Mathis,93,14,1165.0,At Risk
+William Brown,2,48,8217.0,Champions
+Xylona Preis,64,34,7921.0,Champions
+Yana Sorensen,162,17,5405.0,Potential
+Yoseph Carroll,254,25,9025.0,Champions
+Zuschuss Carroll,36,32,14384.0,Champions
+Zuschuss Donatelli,184,27,4955.0,Potential
